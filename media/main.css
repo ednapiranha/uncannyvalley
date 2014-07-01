@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'impact_labelregular';
+    src: url('Impact_Label-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-image: url(back.jpg);
+    font-family: 'impact_labelregular';
+    margin: 0;
+    padding: 20px;
+}
+
+h1, p, h2 {
+    background-color: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 span {
+    color: rgba(1, 1, 1, 0.9);
+}
+
+p span {
+    color: #f00;
+    font-size: 3rem;
+}
+
+a {
+    color: #14bfd8;
+}
+
+h2 span {
+    font-size: 5rem;
+}
