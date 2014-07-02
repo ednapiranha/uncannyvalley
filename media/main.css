@@ -66,18 +66,18 @@ section h3:first-child em {
 
 @media only screen and (max-width: 660px) {
     h1 {
-        font-size: 3rem;
+        font-size: 2.8rem;
     }
 
     p span {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     h2 span {
-        font-size: 3.5rem;
+        font-size: 2.7rem;
     }
 
     section em {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
     }
 }
